@@ -33,15 +33,15 @@ global.ibengkey = 'tamvan'
 global.sessionName = 'session'
 
 // Control
-global.botName = 'Danzz Bot'
-global.ownerName = 'Danzz Coding'
-global.ownerNumber = ['6289512545999']
-global.botNumber = ['6288296339947']
-global.premiumNumber = ['6289512545999','6288296339947']
+global.botName = 'FIN MD'
+global.ownerName = 'Fin Ofc'
+global.ownerNumber = ['6282261065144']
+global.botNumber = ['1484']
+global.premiumNumber = ['6282261065144','6281251868708']
 global.packname = '2023 © Created By'
-global.author = 'www.danzzcoding.my.id'
+global.author = 'https://linktr.ee/fin222'
 global.prefa = ['.']
-global.wm = '© Danzz Coding - All Rights Reserved.'
+global.wm = '© Fin Ofc - All Rights Reserved.'
 global.menustyle = '>'
 //global.menustyle = '•'
 
